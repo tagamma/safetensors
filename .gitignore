@@ -6,3 +6,4 @@ Cargo.lock
 *.pt
 *.safetensors
 *.npz
+node_modules/
